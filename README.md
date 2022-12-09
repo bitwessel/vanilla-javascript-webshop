@@ -5,4 +5,7 @@ about javascript.
 
 The goal was to use localstorage and build a webshop that has products that you can add and remove from the shopping cart and favourite page.
 
-WIP styling+updating-status
+WIP 
+1. styling
+2. updating-status
+3. making components and function out of reusable code (Refacturing)
